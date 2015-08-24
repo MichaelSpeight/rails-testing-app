@@ -570,3 +570,21 @@ Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd81
 
 
 Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2015-08-24 12:49:00 +1200
+
+
+Started GET "/" for ::1 at 2015-08-24 12:52:30 +1200
+Processing by SiteController#index as HTML
+  Rendered site/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 19ms (Views: 18.7ms)
+
+
+Started GET "/assets/application.self-4b3a187e9194703eb2aa998cab5f6afaa243c5154085d203c1fa922d7e7371c8.css?body=1" for ::1 at 2015-08-24 12:52:30 +1200
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2015-08-24 12:52:30 +1200
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-24 12:52:30 +1200
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-24 12:52:30 +1200
