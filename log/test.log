@@ -1,0 +1,13 @@
+Started GET "/contact" for 127.0.0.1 at 2015-08-24 15:03:41 +1200
+Processing by InquiriesController#new as HTML
+Completed 500 Internal Server Error in 13ms
+Started GET "/contact" for 127.0.0.1 at 2015-08-24 15:03:53 +1200
+Processing by InquiriesController#new as HTML
+Completed 500 Internal Server Error in 6ms
+Started GET "/contact" for 127.0.0.1 at 2015-08-24 15:10:17 +1200
+Processing by InquiriesController#new as HTML
+Completed 500 Internal Server Error in 6ms
+Started GET "/contact" for 127.0.0.1 at 2015-08-24 15:12:06 +1200
+Processing by InquiriesController#new as HTML
+  Rendered inquiries/new.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 309ms (Views: 308.8ms)
