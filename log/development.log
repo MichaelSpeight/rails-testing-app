@@ -875,3 +875,507 @@ Started GET "/" for ::1 at 2015-08-24 13:20:29 +1200
 Processing by SiteController#index as HTML
   Rendered site/index.html.erb within layouts/application (0.1ms)
 Completed 200 OK in 23ms (Views: 23.0ms)
+
+
+Started GET "/" for ::1 at 2015-08-24 13:24:29 +1200
+Processing by SiteController#index as HTML
+  Rendered site/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 19ms (Views: 18.5ms)
+
+
+Started GET "/assets/application.self-3f6cf3c8a6cd5dfb337b3c4a966fe105dd8f6f81f8e2ccd5ac23288eb18ed1c1.css?body=1" for ::1 at 2015-08-24 13:24:29 +1200
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-24 13:24:29 +1200
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-24 13:24:29 +1200
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2015-08-24 13:24:29 +1200
+
+
+Started GET "/privacy" for ::1 at 2015-08-24 13:24:38 +1200
+Processing by SiteController#privacy as HTML
+  Rendered site/privacy.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 21ms (Views: 21.3ms)
+
+
+Started GET "/terms" for ::1 at 2015-08-24 13:25:53 +1200
+Processing by SiteController#terms as HTML
+  Rendered site/terms.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 23ms (Views: 22.4ms)
+
+
+Started GET "/terms" for ::1 at 2015-08-24 13:28:38 +1200
+Processing by SiteController#terms as HTML
+  Rendered site/terms.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 32ms (Views: 32.1ms)
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-24 13:28:39 +1200
+
+
+Started GET "/assets/application.self-584c9537202283d0937b8809ff2039f4a687eee2cfaf4411fef9d72662850ed0.css?body=1" for ::1 at 2015-08-24 13:28:39 +1200
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2015-08-24 13:28:39 +1200
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-24 13:28:39 +1200
+
+
+Started GET "/terms" for ::1 at 2015-08-24 13:29:00 +1200
+Processing by SiteController#terms as HTML
+  Rendered site/terms.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 33ms (Views: 32.7ms)
+
+
+Started GET "/assets/application.self-c7e9683c869ebee1d80fccfcfe001227b91f61fec11fbdcf7d6355f9564bf6a6.css?body=1" for ::1 at 2015-08-24 13:29:00 +1200
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-24 13:29:00 +1200
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2015-08-24 13:29:00 +1200
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-24 13:29:00 +1200
+
+
+Started GET "/terms" for ::1 at 2015-08-24 13:29:46 +1200
+Processing by SiteController#terms as HTML
+  Rendered site/terms.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 31ms (Views: 31.1ms)
+
+
+Started GET "/assets/application.self-8979763b4543c1f8c65ab4d0defe427587d0832f0484824fdebe004e8d2579ab.css?body=1" for ::1 at 2015-08-24 13:29:46 +1200
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2015-08-24 13:29:46 +1200
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-24 13:29:46 +1200
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-24 13:29:46 +1200
+
+
+Started GET "/terms" for ::1 at 2015-08-24 13:31:10 +1200
+Processing by SiteController#terms as HTML
+  Rendered site/terms.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 20ms (Views: 20.3ms)
+
+
+Started GET "/assets/application.self-8979763b4543c1f8c65ab4d0defe427587d0832f0484824fdebe004e8d2579ab.css?body=1" for ::1 at 2015-08-24 13:31:10 +1200
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-24 13:31:10 +1200
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-24 13:31:10 +1200
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2015-08-24 13:31:10 +1200
+
+
+Started GET "/terms" for ::1 at 2015-08-24 13:33:50 +1200
+Processing by SiteController#terms as HTML
+  Rendered site/terms.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 18ms (Views: 17.7ms)
+
+
+Started GET "/assets/application.self-8979763b4543c1f8c65ab4d0defe427587d0832f0484824fdebe004e8d2579ab.css?body=1" for ::1 at 2015-08-24 13:33:50 +1200
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2015-08-24 13:33:50 +1200
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-24 13:33:50 +1200
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-24 13:33:50 +1200
+
+
+Started GET "/terms" for ::1 at 2015-08-24 13:33:53 +1200
+Processing by SiteController#terms as HTML
+  Rendered site/terms.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 20ms (Views: 19.7ms)
+
+
+Started GET "/assets/application.self-8979763b4543c1f8c65ab4d0defe427587d0832f0484824fdebe004e8d2579ab.css?body=1" for ::1 at 2015-08-24 13:33:53 +1200
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-24 13:33:53 +1200
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-24 13:33:53 +1200
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2015-08-24 13:33:53 +1200
+
+
+Started GET "/" for ::1 at 2015-08-24 13:36:06 +1200
+Processing by SiteController#index as HTML
+  Rendered site/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 20ms (Views: 20.2ms)
+
+
+Started GET "/about" for ::1 at 2015-08-24 13:36:07 +1200
+Processing by SiteController#about as HTML
+  Rendered site/about.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 21ms (Views: 21.1ms)
+
+
+Started GET "/" for ::1 at 2015-08-24 13:36:11 +1200
+Processing by SiteController#index as HTML
+  Rendered site/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 20ms (Views: 19.5ms)
+
+
+Started GET "/about" for ::1 at 2015-08-24 13:36:13 +1200
+Processing by SiteController#about as HTML
+  Rendered site/about.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 21ms (Views: 20.5ms)
+
+
+Started GET "/terms" for ::1 at 2015-08-24 13:38:06 +1200
+Processing by SiteController#terms as HTML
+  Rendered site/terms.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 24ms (Views: 24.0ms)
+
+
+Started GET "/terms" for ::1 at 2015-08-24 13:39:13 +1200
+Processing by SiteController#terms as HTML
+  Rendered site/terms.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 33ms (Views: 32.9ms)
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-24 13:39:13 +1200
+
+
+Started GET "/assets/application.self-4634934e288e77c5481415899a74b29ea70cda42744ae3cc9083bfdb7240e21a.css?body=1" for ::1 at 2015-08-24 13:39:13 +1200
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2015-08-24 13:39:13 +1200
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-24 13:39:13 +1200
+
+
+Started GET "/terms" for ::1 at 2015-08-24 13:39:16 +1200
+Processing by SiteController#terms as HTML
+  Rendered site/terms.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 18ms (Views: 17.7ms)
+
+
+Started GET "/assets/application.self-4634934e288e77c5481415899a74b29ea70cda42744ae3cc9083bfdb7240e21a.css?body=1" for ::1 at 2015-08-24 13:39:16 +1200
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2015-08-24 13:39:16 +1200
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-24 13:39:16 +1200
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-24 13:39:16 +1200
+
+
+Started GET "/terms" for ::1 at 2015-08-24 13:39:19 +1200
+Processing by SiteController#terms as HTML
+  Rendered site/terms.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 22ms (Views: 21.5ms)
+
+
+Started GET "/assets/application.self-4634934e288e77c5481415899a74b29ea70cda42744ae3cc9083bfdb7240e21a.css?body=1" for ::1 at 2015-08-24 13:39:19 +1200
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-24 13:39:19 +1200
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-24 13:39:19 +1200
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2015-08-24 13:39:19 +1200
+
+
+Started GET "/privacy" for ::1 at 2015-08-24 13:39:23 +1200
+Processing by SiteController#privacy as HTML
+  Rendered site/privacy.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 25ms (Views: 24.5ms)
+
+
+Started GET "/terms" for ::1 at 2015-08-24 13:39:24 +1200
+Processing by SiteController#terms as HTML
+  Rendered site/terms.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 22ms (Views: 21.5ms)
+
+
+Started GET "/privacy" for ::1 at 2015-08-24 13:39:25 +1200
+Processing by SiteController#privacy as HTML
+  Rendered site/privacy.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 21ms (Views: 20.7ms)
+
+
+Started GET "/terms" for ::1 at 2015-08-24 13:39:27 +1200
+Processing by SiteController#terms as HTML
+  Rendered site/terms.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 23ms (Views: 23.2ms)
+
+
+Started GET "/privacy" for ::1 at 2015-08-24 13:39:28 +1200
+Processing by SiteController#privacy as HTML
+  Rendered site/privacy.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 22ms (Views: 22.0ms)
+
+
+Started GET "/" for ::1 at 2015-08-24 13:43:01 +1200
+Processing by SiteController#index as HTML
+  Rendered site/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 20ms (Views: 20.2ms)
+
+
+Started GET "/terms" for ::1 at 2015-08-24 13:43:04 +1200
+Processing by SiteController#terms as HTML
+  Rendered site/terms.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 24ms (Views: 23.4ms)
+
+
+Started GET "/privacy" for ::1 at 2015-08-24 13:43:07 +1200
+Processing by SiteController#privacy as HTML
+  Rendered site/privacy.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 20ms (Views: 19.5ms)
+
+
+Started GET "/terms" for ::1 at 2015-08-24 13:43:08 +1200
+Processing by SiteController#terms as HTML
+  Rendered site/terms.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 19ms (Views: 18.9ms)
+
+
+Started GET "/privacy" for ::1 at 2015-08-24 13:43:09 +1200
+Processing by SiteController#privacy as HTML
+  Rendered site/privacy.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 23ms (Views: 22.6ms)
+
+
+Started GET "/terms" for ::1 at 2015-08-24 13:43:10 +1200
+Processing by SiteController#terms as HTML
+  Rendered site/terms.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 23ms (Views: 23.3ms)
+
+
+Started GET "/terms" for ::1 at 2015-08-24 13:44:47 +1200
+Processing by SiteController#terms as HTML
+  Rendered site/terms.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 43ms (Views: 42.4ms)
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-24 13:44:47 +1200
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-24 13:44:47 +1200
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2015-08-24 13:44:47 +1200
+
+
+Started GET "/assets/application.self-75e3669b0c8e769bc367947ef54353ff638dd317ed0692cd265b04bf719adab3.css?body=1" for ::1 at 2015-08-24 13:44:47 +1200
+
+
+Started GET "/terms" for ::1 at 2015-08-24 13:48:18 +1200
+Processing by SiteController#terms as HTML
+  Rendered site/terms.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 32ms (Views: 31.7ms)
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-24 13:48:19 +1200
+
+
+Started GET "/assets/application.self-58e76fb225d9d03a05738a7de855707ddaae9ced4cba894a887eb55d5534235d.css?body=1" for ::1 at 2015-08-24 13:48:19 +1200
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2015-08-24 13:48:19 +1200
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-24 13:48:19 +1200
+
+
+Started GET "/terms" for ::1 at 2015-08-24 13:56:47 +1200
+Processing by SiteController#terms as HTML
+  Rendered site/terms.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 21ms (Views: 21.3ms)
+
+
+Started GET "/assets/application.self-58e76fb225d9d03a05738a7de855707ddaae9ced4cba894a887eb55d5534235d.css?body=1" for ::1 at 2015-08-24 13:56:47 +1200
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-24 13:56:47 +1200
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2015-08-24 13:56:47 +1200
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-24 13:56:47 +1200
+
+
+Started GET "/terms" for ::1 at 2015-08-24 13:56:49 +1200
+Processing by SiteController#terms as HTML
+  Rendered site/terms.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 20ms (Views: 19.4ms)
+
+
+Started GET "/" for ::1 at 2015-08-24 13:56:51 +1200
+Processing by SiteController#index as HTML
+  Rendered site/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 21ms (Views: 20.8ms)
+
+
+Started GET "/" for ::1 at 2015-08-24 14:28:11 +1200
+Processing by SiteController#index as HTML
+  Rendered site/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 26ms (Views: 25.5ms)
+
+
+Started GET "/assets/application.self-58e76fb225d9d03a05738a7de855707ddaae9ced4cba894a887eb55d5534235d.css?body=1" for ::1 at 2015-08-24 14:28:11 +1200
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-24 14:28:11 +1200
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2015-08-24 14:28:11 +1200
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-24 14:28:11 +1200
+
+
+Started GET "/" for ::1 at 2015-08-24 14:28:57 +1200
+Processing by SiteController#index as HTML
+  Rendered site/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 21ms (Views: 20.6ms)
+
+
+Started GET "/assets/application.self-58e76fb225d9d03a05738a7de855707ddaae9ced4cba894a887eb55d5534235d.css?body=1" for ::1 at 2015-08-24 14:28:57 +1200
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-24 14:28:57 +1200
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-24 14:28:57 +1200
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2015-08-24 14:28:57 +1200
+
+
+Started GET "/about" for ::1 at 2015-08-24 14:29:03 +1200
+Processing by SiteController#about as HTML
+  Rendered site/about.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 22ms (Views: 22.2ms)
+
+
+Started GET "/" for ::1 at 2015-08-24 14:29:07 +1200
+Processing by SiteController#index as HTML
+  Rendered site/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 22ms (Views: 22.0ms)
+
+
+Started GET "/" for ::1 at 2015-08-24 14:30:17 +1200
+Processing by SiteController#index as HTML
+  Rendered site/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 21ms (Views: 21.2ms)
+
+
+Started GET "/assets/application.self-58e76fb225d9d03a05738a7de855707ddaae9ced4cba894a887eb55d5534235d.css?body=1" for ::1 at 2015-08-24 14:30:17 +1200
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-24 14:30:17 +1200
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-24 14:30:17 +1200
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2015-08-24 14:30:17 +1200
+
+
+Started GET "/about" for ::1 at 2015-08-24 14:30:20 +1200
+Processing by SiteController#about as HTML
+  Rendered site/about.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 22ms (Views: 21.5ms)
+
+
+Started GET "/" for ::1 at 2015-08-24 14:30:25 +1200
+Processing by SiteController#index as HTML
+  Rendered site/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 22ms (Views: 22.2ms)
+
+
+Started GET "/" for ::1 at 2015-08-24 14:33:39 +1200
+Processing by SiteController#index as HTML
+  Rendered site/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 20ms (Views: 20.0ms)
+
+
+Started GET "/assets/application.self-58e76fb225d9d03a05738a7de855707ddaae9ced4cba894a887eb55d5534235d.css?body=1" for ::1 at 2015-08-24 14:33:39 +1200
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-24 14:33:39 +1200
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-24 14:33:39 +1200
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2015-08-24 14:33:39 +1200
+
+
+Started GET "/about" for ::1 at 2015-08-24 14:33:43 +1200
+Processing by SiteController#about as HTML
+  Rendered site/about.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 27ms (Views: 27.1ms)
+
+
+Started GET "/" for ::1 at 2015-08-24 14:33:44 +1200
+Processing by SiteController#index as HTML
+  Rendered site/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 20ms (Views: 19.6ms)
+
+
+Started GET "/" for ::1 at 2015-08-24 14:34:01 +1200
+Processing by SiteController#index as HTML
+  Rendered site/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 19ms (Views: 19.2ms)
+
+
+Started GET "/assets/application.self-58e76fb225d9d03a05738a7de855707ddaae9ced4cba894a887eb55d5534235d.css?body=1" for ::1 at 2015-08-24 14:34:01 +1200
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2015-08-24 14:34:01 +1200
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-08-24 14:34:01 +1200
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-08-24 14:34:01 +1200
+
+
+Started GET "/about" for ::1 at 2015-08-24 14:34:04 +1200
+Processing by SiteController#about as HTML
+  Rendered site/about.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 22ms (Views: 21.6ms)
+
+
+Started GET "/" for ::1 at 2015-08-24 14:34:04 +1200
+Processing by SiteController#index as HTML
+  Rendered site/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 20ms (Views: 20.1ms)
+
+
+Started GET "/about" for ::1 at 2015-08-24 14:34:05 +1200
+Processing by SiteController#about as HTML
+  Rendered site/about.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 21ms (Views: 20.4ms)
+
+
+Started GET "/" for ::1 at 2015-08-24 14:34:08 +1200
+Processing by SiteController#index as HTML
+  Rendered site/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 20ms (Views: 19.8ms)
