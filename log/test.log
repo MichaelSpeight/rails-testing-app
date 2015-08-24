@@ -11,3 +11,56 @@ Started GET "/contact" for 127.0.0.1 at 2015-08-24 15:12:06 +1200
 Processing by InquiriesController#new as HTML
   Rendered inquiries/new.html.erb within layouts/application (2.6ms)
 Completed 200 OK in 309ms (Views: 308.8ms)
+Started GET "/contact" for 127.0.0.1 at 2015-08-24 15:15:59 +1200
+Processing by InquiriesController#new as HTML
+  Rendered inquiries/new.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 115ms (Views: 115.1ms)
+Started GET "/contact" for 127.0.0.1 at 2015-08-24 15:15:59 +1200
+Processing by InquiriesController#new as HTML
+  Rendered inquiries/new.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.6ms)
+Started GET "/contact" for 127.0.0.1 at 2015-08-24 15:16:31 +1200
+Processing by InquiriesController#new as HTML
+  Rendered inquiries/new.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 130ms (Views: 129.9ms)
+Started GET "/contact" for 127.0.0.1 at 2015-08-24 15:16:31 +1200
+Processing by InquiriesController#new as HTML
+  Rendered inquiries/new.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.5ms)
+Started GET "/contact" for 127.0.0.1 at 2015-08-24 15:17:08 +1200
+Processing by InquiriesController#new as HTML
+  Rendered inquiries/new.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 115ms (Views: 114.4ms)
+Started GET "/contact" for 127.0.0.1 at 2015-08-24 15:17:08 +1200
+Processing by InquiriesController#new as HTML
+  Rendered inquiries/new.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 2ms (Views: 1.7ms)
+Started GET "/contact" for 127.0.0.1 at 2015-08-24 15:19:19 +1200
+Processing by InquiriesController#new as HTML
+  Rendered inquiries/new.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 123ms (Views: 122.5ms)
+Started GET "/contact" for 127.0.0.1 at 2015-08-24 15:19:19 +1200
+Processing by InquiriesController#new as HTML
+  Rendered inquiries/new.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 2ms (Views: 1.7ms)
+Started GET "/contact" for 127.0.0.1 at 2015-08-24 15:27:35 +1200
+Processing by InquiriesController#new as HTML
+  Rendered inquiries/new.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 125ms (Views: 124.4ms)
+Started GET "/contact" for 127.0.0.1 at 2015-08-24 15:27:35 +1200
+Processing by InquiriesController#new as HTML
+  Rendered inquiries/new.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.3ms)
+Started GET "/contact" for 127.0.0.1 at 2015-08-24 15:38:12 +1200
+Processing by InquiriesController#new as HTML
+  Rendered inquiries/new.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 117ms (Views: 116.9ms)
+Started GET "/contact" for 127.0.0.1 at 2015-08-24 15:38:12 +1200
+Processing by InquiriesController#new as HTML
+  Rendered inquiries/new.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.5ms)
+Started POST "/contact" for 127.0.0.1 at 2015-08-24 15:38:12 +1200
+Processing by InquiriesController#create as HTML
+  Parameters: {"message"=>"This is my message"}
+  Rendered text template (0.0ms)
+Completed 200 OK in 3ms (Views: 2.4ms)
